@@ -1,6 +1,6 @@
 # Coinverter
 
-Um aplicativo desenvolvido com Flutter que realiza conversões entre as moedas: Real, Dólar, Euro e Bitcoin.
+Um aplicativo desenvolvido com Flutter que consome dados da API AwesomeAPI, para realizar conversões entre as moedas: Real, Dólar, Euro e Bitcoin.
 
 ## Funcionalodades
 
