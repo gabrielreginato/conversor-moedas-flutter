@@ -12,3 +12,5 @@ serão atualizados com os valores convertidos de acordo com o valor inserido.
 ## Bibliotecas Utilizadas
 
 - http v1.3.0
+
+#### Nota: Este projeto foi originalmente desenvolvido anteriormente e repostado nesta conta após perda de acesso à conta anterior.
