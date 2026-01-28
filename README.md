@@ -1,16 +1,14 @@
-# conversor_moedas
+# Coinverter
 
-A new Flutter project.
+Um aplicativo desenvolvido com Flutter que realiza conversões entre as moedas: Real, Dólar, Euro e Bitcoin.
 
-## Getting Started
+## Funcionalodades
 
-This project is a starting point for a Flutter application.
+Para realizar as converões basta inserir o valor no campo de texto da moeda desejada, então todos os campos
+serão atualizados com os valores convertidos de acordo com o valor inserido.
 
-A few resources to get you started if this is your first Flutter project:
+![Exemplo de conversão](https://github.com/gabrielreginato/conversor-moedas-flutter/blob/main/gitHubAssets/example.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Bibliotecas Utilizadas
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- http v1.3.0
